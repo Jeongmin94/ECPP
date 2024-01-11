@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{4c94094a-4818-4947-b313-c5cdfd0d370d}</ProjectGuid>
-    <RootNamespace>My01AccustomingYourselfToCpp</RootNamespace>
+    <ProjectGuid>{275cab3c-4258-4ba8-b512-6deb899d2aef}</ProjectGuid>
+    <RootNamespace>My02ConstructorsDestructorsandAssignmentOperators</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,10 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="01_Accustoming_Yourself_To_Cpp.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="01_04.h" />
+    <ClCompile Include="02_Constructors_Destructors_and_AssignmentOperators.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
