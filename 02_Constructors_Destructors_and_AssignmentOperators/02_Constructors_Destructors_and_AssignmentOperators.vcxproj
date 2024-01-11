@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="02_Constructors_Destructors_and_AssignmentOperators.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="02_05.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
