@@ -29,5 +29,11 @@
     <ClInclude Include="02_08.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="02_09.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="02_11.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -133,6 +133,8 @@
     <ClInclude Include="02_05.h" />
     <ClInclude Include="02_07.h" />
     <ClInclude Include="02_08.h" />
+    <ClInclude Include="02_09.h" />
+    <ClInclude Include="02_11.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
